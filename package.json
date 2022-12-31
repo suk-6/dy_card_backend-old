@@ -5,5 +5,17 @@
   "main": "index.js",
   "repository": "https://github.com/suk-6/dy_card_backend.git",
   "author": "suk-6",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
 }
