@@ -1,0 +1,9 @@
+{
+  "name": "dy_card_backend",
+  "version": "1.0.0",
+  "description": "Made by suk-6",
+  "main": "index.js",
+  "repository": "https://github.com/suk-6/dy_card_backend.git",
+  "author": "suk-6",
+  "license": "MIT"
+}
